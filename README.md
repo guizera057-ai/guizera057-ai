@@ -1,48 +1,54 @@
 <div align="center">
 
-  <!-- BANNER DIVERTIDO E ANIMADO -->
+  <!-- BANNER ANIMADO COM PEGADA CYBER/TERMINAL -->
   <a href="https://github.com/guizera057-ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme!+%F0%9F%91%8B;Transformando+ideias+em+c%C3%B3digo.;Estudante+de+ADS+%26+Criador+Digital.;Explorando+Python%2C+Web+%26+Design." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+(Gui)+%F0%9F%91%BE;Cybersecurity+%7C+Machine+Learning+%7C+Python;Investigando+redes+e+automatizando+o+caos.;Bem-vindo+ao+meu+espa%C3%A7o!" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 👨‍💻 Um pouco sobre mim
+### 🕵️‍♂️ Quem é o Gui?
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia, arte digital e por criar interfaces que funcionam tão bem quanto parecem. Acredito que um bom código é como um bom design: simples, limpo e direto ao ponto. 
+Sou um entusiasta de tecnologia apaixonado por entender como os sistemas funcionam por baixo dos panos — e, principalmente, como protegê-los. 
 
-Quando não estou estudando lógica de programação, provavelmente estou explorando novas ferramentas visuais ou planejando meu próximo projeto.
+Atualmente, divido meu tempo entre a **Ciência da Computação (FAI)**, o **Técnico em ADS (ETEC)** e meu estágio na **Prefeitura de Junqueirópolis**, onde desenvolvo ferramentas internas em Python para otimizar o suporte técnico e a gestão de mídia.
+
+Meu verdadeiro playground envolve **Cibersegurança, Machine Learning e Redes**. No momento, estou imerso em um projeto incrível de reidentificação de dispositivos Wi-Fi utilizando *fingerprinting* de RF (skew de clock). 📡🔐
 
 ---
 
-### 🚀 O que eu uso para criar
+### 💻 Meu Arsenal de Tecnologias
+
+> Ferramentas que uso para transformar café em automações e segurança:
 
 <div align="center">
   <br>
-  <!-- BADGES COLORIDAS -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br><br>
 </div>
 
 ---
 
-### 📈 Como andam meus projetos
+### 📊 Status & Estatísticas
 
 <div align="center">
-  <!-- ESTATÍSTICAS COM TEMA DRACULA (MODERNO E COLORIDO) -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guizera057-ai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizera057-ai&layout=compact&theme=dracula&hide_border=true" />
+  <!-- ESTATÍSTICAS COM TEMA NOTURNO (TOKYONIGHT) -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guizera057-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizera057-ai&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 📬 Vamos tomar um café (virtual)?
+### 📡 Radar de Contato
+
+Quer trocar uma ideia sobre malware, projetos de redes, automação ou tecnologia em geral? Me chama aqui:
 
 <div align="center">
   <br>
